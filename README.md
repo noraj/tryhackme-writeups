@@ -19,7 +19,7 @@ If you want to incorporate your own writeup to solve a room you can do it throug
 
 No | Pseudo | Rooms | Total Write-ups
 --- | --- | --- | ---
-1 | [noraj][noraj] | [Advent of Cyber][noraj-25daysofchristmas], [Advent of Cyber 2][noraj-adventofcyber2], [All in One][noraj-allinonemj], [AttackerKB][noraj-attackerkb], [Basic Pentesting][noraj-basicpentestingjt], [Blue][noraj-blue], [CC: Pen Testing][noraj-ccpentesting], [Daily Bugle][noraj-dailybugle], [Google Dorking][noraj-googledorking], [Hydra][noraj-hydra], [Ice][noraj-ice], [Ignite][noraj-ignite], [Inclusion][noraj-inclusion], [Introduction to Flask][noraj-flask], [Introduction to OWASP ZAP][noraj-learnowaspzap], [Introductory Researching][noraj-introtoresearch], [Kenobi][noraj-kenobi], [Metasploit (Red Primer)][noraj-rpmetasploit], [Nessus (Red Primer)][noraj-rpnessus], [Nessus (Redux)][noraj-rpnessusredux], [Networking (Blue Primer)][noraj-bpnetworking], [Nmap][noraj-furthernmap], [Nmap (Red Primer)][noraj-rpnmap], [OhSINT][noraj-ohsint], [OWASP Top 10][noraj-owasptop10], [The Hacker Methodology][noraj-hackermethodology], [tmux][noraj-tmux], [Web Fundamentals][noraj-webfundamentals], [Web Scanning (Red Primer)][noraj-rpwebscanning] | 29
+1 | [noraj][noraj] | [Advent of Cyber][noraj-25daysofchristmas], [Advent of Cyber 2][noraj-adventofcyber2], [All in One][noraj-allinonemj], [AttackerKB][noraj-attackerkb], [Basic Pentesting][noraj-basicpentestingjt], [Blue][noraj-blue], [CC: Pen Testing][noraj-ccpentesting], [Chocolate Factory][noraj-chocolatefactory], [Daily Bugle][noraj-dailybugle], [Google Dorking][noraj-googledorking], [Hydra][noraj-hydra], [Ice][noraj-ice], [Ignite][noraj-ignite], [Inclusion][noraj-inclusion], [Introduction to Flask][noraj-flask], [Introduction to OWASP ZAP][noraj-learnowaspzap], [Introductory Researching][noraj-introtoresearch], [Kenobi][noraj-kenobi], [Metasploit (Red Primer)][noraj-rpmetasploit], [Nessus (Red Primer)][noraj-rpnessus], [Nessus (Redux)][noraj-rpnessusredux], [Networking (Blue Primer)][noraj-bpnetworking], [Nmap][noraj-furthernmap], [Nmap (Red Primer)][noraj-rpnmap], [OhSINT][noraj-ohsint], [OWASP Top 10][noraj-owasptop10], [Sustah][noraj-sustah], [The Hacker Methodology][noraj-hackermethodology], [tmux][noraj-tmux], [Web Fundamentals][noraj-webfundamentals], [Web Scanning (Red Primer)][noraj-rpwebscanning] | 31
 2 | [KrabbanBus][KrabbanBus] | [Linux Strength Training][KrabbanBus-linuxstrengthtraining], [Searchlight - IMINT][KrabbanBus-searchlightosint]  | 2
 
 [noraj]:https://tryhackme.com/p/noraj
@@ -30,6 +30,7 @@ No | Pseudo | Rooms | Total Write-ups
 [noraj-basicpentestingjt]:https://blog.raw.pm/en/TryHackMe-Basic-Pentesting-write-up/
 [noraj-blue]:https://blog.raw.pm/en/TryHackMe-Blue-write-up/
 [noraj-ccpentesting]:https://blog.raw.pm/en/TryHackMe-CC-Pen-Testing-write-up/
+[noraj-chocolatefactory]:https://blog.raw.pm/en/TryHackMe-Chocolate-Factory-write-up/
 [noraj-dailybugle]:https://blog.raw.pm/en/TryHackMe-Daily-Bugle-write-up/
 [noraj-googledorking]:https://blog.raw.pm/en/TryHackMe-Google-Dorking-write-up/
 [noraj-hydra]:https://blog.raw.pm/en/TryHackMe-Hydra-write-up/
@@ -48,6 +49,7 @@ No | Pseudo | Rooms | Total Write-ups
 [noraj-rpnmap]:https://blog.raw.pm/en/TryHackMe-Nmap-write-up/
 [noraj-ohsint]:https://blog.raw.pm/en/TryHackMe-OhSINT-write-up/
 [noraj-owasptop10]:https://blog.raw.pm/en/TryHackMe-OWASP-Top-10-write-up/
+[noraj-sustah]:https://blog.raw.pm/en/TryHackMe-Sustah-write-up/
 [noraj-hackermethodology]:https://blog.raw.pm/en/TryHackMe-The-Hacker-Methodology-write-up/
 [noraj-tmux]:https://blog.raw.pm/en/TryHackMe-tmux-write-up/
 [noraj-webfundamentals]:https://blog.raw.pm/en/TryHackMe-Web-Fundamentals-write-up/
