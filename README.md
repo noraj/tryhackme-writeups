@@ -27,6 +27,7 @@ No | Pseudo | Rooms | Total Write-ups
 6 | [OmerWaseem2][OmerWaseem2] | [Crack The Hash Level 2][OmerWaseem2-crackthehashlevel2] | 1
 7 | [sanz][sanz] | [Crack The Hash Level 2][sanz-crackthehashlevel2] | 1
 8 | [Shamsher][Shamsher] | [Crack The Hash Level 2][Shamsher-crackthehashlevel2] | 1
+9 | [Corshine][Corshine] | [Bolt][Corshine-bolt] | 1
 
 [noraj]:https://tryhackme.com/p/noraj
 [noraj-25daysofchristmas]:https://blog.raw.pm/en/TryHackMe-Advent-of-Cyber-write-up/
@@ -110,6 +111,9 @@ No | Pseudo | Rooms | Total Write-ups
 
 [Shamsher]:https://tryhackme.com/p/Shamsher
 [Shamsher-crackthehashlevel2]:https://shamsher-khan.medium.com/crack-the-hash-level-2-tryhackme-writeup-7a534f1edc04
+
+[Corshine]:https://tryhackme.com/p/corshinesec
+[Corshine-bolt]:https://corshinecorshine.github.io/posts/Bolt/
 
 ## Spetial notes
 
