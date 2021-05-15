@@ -1,3 +1,5 @@
+# ⚠️ Replaced by https://writeup.raw.pm/
+
 # tryhackme-writeups
 
 Write-Ups for TryHackMe rooms (walkthrough & challenge) written in English.
